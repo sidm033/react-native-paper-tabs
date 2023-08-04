@@ -67,6 +67,7 @@ import {
   TabScreen,
   useTabIndex,
   useTabNavigation,
+  TabsProvider,
 } from 'react-native-paper-tabs';
 
 function Example() {
